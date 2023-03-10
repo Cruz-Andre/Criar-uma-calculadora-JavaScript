@@ -2,7 +2,7 @@
 <hr>
 
 ## TODO
-* A ultima história de usuário faltante;
+* História de usuário nº 13;
 
 <hr>
 
